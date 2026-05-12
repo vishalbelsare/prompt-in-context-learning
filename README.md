@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-02]**
+### **[2026-05-12]**
 
-[**Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems**](https://huggingface.co/papers/2604.14228) （**New**）
+[**OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories**](https://arxiv.org/abs/2605.04036) （**New**）
 
-*Published: 2026-04-14*
+*Published: 2026-05-05*
 
-<font color="gray">Jiacheng Liu, Xiaohan Zhao, Xinyi Shang, Zhiqiang Shen - [arXiv]</font>
+<font color="gray">Yuwen Du, Rui Ye, Shuo Tang, Keduan Huang, Xinyu Zhu, Yuzhu Cai, Siheng Chen - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-929-blue)](https://github.com/VILA-Lab/Dive-into-Claude-Code) ![](https://img.shields.io/badge/Mendeley%20Readers-10-red) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-[**Geometric Context Transformer for Streaming 3D Reconstruction**](https://huggingface.co/papers/2604.14141) （**New**）
-
-*Published: 2026-04-16*
-
-<font color="gray">Lin-Zhuo Chen, Jian Gao, Yihang Chen, Ka Leong Cheng, Yipengjing Sun, Liangxiao Hu, Nan Xue, Xing Zhu, Yujun Shen, Yao Yao, Yinghao Xu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-5,496-blue)](https://github.com/robbyant/lingbot-map) ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-690-blue)](https://github.com/PolarSeeker/OpenSeeker) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
 
-[**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**](https://huggingface.co/papers/2604.20796) （**New**）
+[**ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration**](https://huggingface.co/papers/2605.03042) （**New**）
 
-*Published: 2026-04-22*
+*Published: 2026-05-04*
 
-<font color="gray">Inclusion AI, Tiwei Bie, Haoxing Chen, Tieyuan Chen, Zhenglin Cheng, Long Cui, Kai Gan, Zhicheng Huang, Zhenzhong Lan, Haoquan Li, Jianguo Li, Tao Lin, Qi Qin, Hongjun Wang, Xiaomei Wang, Haoyuan Wu,  - [arXiv]</font>
+<font color="gray">Ruofeng Yang, Yongcan Li, Shuai Li - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-719-blue)](https://github.com/inclusionAI/LLaDA2.0-Uni) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
-
-[**GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)**](https://huggingface.co/papers/2604.17091) （**New**）
-
-*Published: 2026-04-18*
-
-<font color="gray">Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, Zishang Jiang, Ying Liao, Tingyun Li, Ying Huang, Hao Shen, Hanyu Wu, Fang Guo, Keyi Wang, Zhonghua Hong, Zhiyu Lu, Lipeng Ma, Sihang Ji - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-8,623-blue)](https://github.com/lsdefine/GenericAgent)
+[![](https://img.shields.io/badge/GitHub%20Stars-8,965-blue)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
 
-[**OpenGame: Open Agentic Coding for Games**](https://huggingface.co/papers/2604.18394) （**New**）
+[**Normalizing Trajectory Models**](https://huggingface.co/papers/2605.08078) （**New**）
 
-*Published: 2026-04-20*
+*Published: 2026-05-08*
 
-<font color="gray">Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiaming Han, Tianshuo Peng, Kaixuan Fan, Manyuan Zhang, Xiangyu Yue - [arXiv]</font>
+<font color="gray">Jiatao Gu, Tianrong Chen, Ying Shen, David Berthelot, Shuangfei Zhai, Josh Susskind - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,775-blue)](https://github.com/leigest519/OpenGame)
+[![](https://img.shields.io/badge/GitHub%20Stars-549-blue)](https://github.com/apple/ml-starflow)
+
+---
+
+
+[**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**](https://huggingface.co/papers/2605.08029) （**New**）
+
+*Published: 2026-05-08*
+
+<font color="gray">Ying Shen, Tianrong Chen, Yuan Gao, Yizhe Zhang, Yuyang Wang, Miguel Ángel Bautista, Shuangfei Zhai, Joshua M. Susskind, Jiatao Gu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-549-blue)](https://github.com/apple/ml-starflow)
+
+---
+
+
+[**NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**](https://huggingface.co/papers/2605.10813) （**New**）
+
+*Published: 2026-05-11*
+
+<font color="gray">Jinhang Xu, Qiyuan Zhu, Yujun Wu, Zirui Wang, Dongxu Zhang, Jianxin Tang, Marcia Tian, Yiling Duan, Siyuan Li, Jingxuan Wei, Sirui Han, Yike Guo, Odin Zhang, Conghui He, Cheng Tan - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-933-blue)](https://github.com/OpenRaiser/NanoResearch)
 
 ---
 
