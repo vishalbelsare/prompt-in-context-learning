@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-13]**
+### **[2026-05-14]**
 
-[**MemReranker: Reasoning-Aware Reranking for Agent Memory Retrieval**](https://arxiv.org/abs/2605.06132) （**New**）
+[**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**](https://huggingface.co/papers/2605.12500) （**New**）
 
-*Published: 2026-05-07*
+*Published: 2026-05-12*
 
-<font color="gray">Chunyu Li, Jingyi Kang, Ding Chen, Mengyuan Zhang, Jiajun Shen, Bo Tang, Xuanhe Zhou, Feiyu Xiong, Zhiyu Li - [arXiv]</font>
+<font color="gray">Haiwen Diao, Penghao Wu, Hanming Deng, Jiahao Wang, Shihao Bai, Silei Wu, Weichen Fan, Wenjie Ye, Wenwen Tong, Xiangyu Fan, Yan Li, Yubo Wang, Zhijie Cao, Zhiqian Lin, Zhitao Yang, Zhongang Cai, Yuwei - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-9,039-blue)](https://github.com/MemTensor/MemOS)
-
----
-
-
-[**EnterpriseRAG-Bench: A RAG Benchmark for Company Internal Knowledge**](https://arxiv.org/abs/2605.05253) （**New**）
-
-*Published: 2026-05-05*
-
-<font color="gray">Yuhong Sun, Joachim Rahmfeld, Chris Weaver, Roshan Desai, Wenxi Huang, Mark H. Butler - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-302-blue)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,657-blue)](https://github.com/OpenSenseNova/SenseNova-U1)
 
 ---
 
 
-[**MolmoAct2: Action Reasoning Models for Real-world Deployment**](https://huggingface.co/papers/2605.02881) （**New**）
+[**World Model for Robot Learning: A Comprehensive Survey**](https://huggingface.co/papers/2605.00080) （**New**）
 
-*Published: 2026-05-08*
+*Published: 2026-04-30*
 
-<font color="gray">Haoquan Fang, Jiafei Duan, Donovan Clay, Sam Wang, Shuo Liu, Weikai Huang, Xiang Fan, Wei-Chuan Tsai, Shirui Chen, Yi Ru Wang, Shanli Xing, Jaemin Cho, Jae Sung Park, Ainaz Eftekhar, Peter Sushko, Kar - [arXiv]</font>
+<font color="gray">Bohan Hou, Gen Li, Jindou Jia, Tuo An, Xinying Guo, Sicong Leng, Haoran Geng, Yanjie Ze, Tatsuya Harada, Philip Torr, Oier Mees, Marc Pollefeys, Zhuang Liu, Jiajun Wu, Pieter Abbeel, Jitendra Malik, Y - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-274-blue)](https://github.com/allenai/molmoact2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
-
-[**Geometric Context Transformer for Streaming 3D Reconstruction**](https://huggingface.co/papers/2604.14141) （**New**）
-
-*Published: 2026-04-16*
-
-<font color="gray">Lin-Zhuo Chen, Jian Gao, Yihang Chen, Ka Leong Cheng, Yipengjing Sun, Liangxiao Hu, Nan Xue, Xing Zhu, Yujun Shen, Yao Yao, Yinghao Xu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-6,153-blue)](https://github.com/robbyant/lingbot-map) ![](https://img.shields.io/badge/Mendeley%20Readers-11-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-317-blue)](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
 
 ---
 
 
-[**GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)**](https://huggingface.co/papers/2604.17091) （**New**）
+[**MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction**](https://huggingface.co/papers/2604.27393) （**New**）
 
-*Published: 2026-04-18*
+*Published: 2026-04-30*
 
-<font color="gray">Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, Zishang Jiang, Ying Liao, Tingyun Li, Ying Huang, Hao Shen, Hanyu Wu, Fang Guo, Keyi Wang, Zhonghua Hong, Zhiyu Lu, Lipeng Ma, Sihang Ji - [arXiv]</font>
+<font color="gray">Junbo Cui, Bokai Xu, Chongyi Wang, Tianyu Yu, Weiyue Sun, Yingjing Xu, Tianran Wang, Zhihui He, Wenshuo Ma, Tianchi Cai, Jiancheng Gui, Luoyuan Zhang, Xian Sun, Fuwei Huang, Moye Chen, Zhuo Lin, Hanyu - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-11,040-blue)](https://github.com/lsdefine/GenericAgent) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-24,621-blue)](https://github.com/OpenBMB/MiniCPM-o) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+
+[**Adam's Law: Textual Frequency Law on Large Language Models**](https://huggingface.co/papers/2604.02176) （**New**）
+
+*Published: 2026-04-07*
+
+<font color="gray">Hongyuan Adam Lu, Z.L., Victor Wei, Zefan Zhang, Zhao Hong, Qiqi Xiang, Bowen Cao, Wai Lam - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,305-blue)](https://github.com/HongyuanLuke/frequencylaw) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+
+[**OpenGame: Open Agentic Coding for Games**](https://huggingface.co/papers/2604.18394) （**New**）
+
+*Published: 2026-04-20*
+
+<font color="gray">Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiaming Han, Tianshuo Peng, Kaixuan Fan, Manyuan Zhang, Xiangyu Yue - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,148-blue)](https://github.com/leigest519/OpenGame)
 
 ---
 
