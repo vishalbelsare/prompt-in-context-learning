@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-15]**
+### **[2026-05-16]**
 
-[**Pixal3D: Pixel-Aligned 3D Generation from Images**](https://huggingface.co/papers/2605.10922) （**New**）
+[**SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer**](https://huggingface.co/papers/2605.15178) （**New**）
+
+*Published: 2026-05-14*
+
+<font color="gray">Haoyi Zhu, Haozhe Liu, Yuyang Zhao, Tian Ye, Junsong Chen, Jincheng Yu, Tong He, Song Han, Enze Xie - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-5,250-blue)](https://github.com/NVlabs/Sana/)
+
+---
+
+
+[**Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation**](https://huggingface.co/papers/2605.15141) （**New**）
+
+*Published: 2026-05-14*
+
+<font color="gray">Min Zhao, Hongzhou Zhu, Kaiwen Zheng, Zihan Zhou, Bokai Yan, Xinyuan Li, Xiao Yang, Chongxuan Li, Jun Zhu - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-652-blue)](https://github.com/thu-ml/Causal-Forcing)
+
+---
+
+
+[**WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation**](https://huggingface.co/papers/2605.10912) （**New**）
 
 *Published: 2026-05-11*
 
-<font color="gray">Dong-Yang Li, Wang Zhao, Yuxin Chen, Wenbo Hu, Meng-Hao Guo, Fang-Lue Zhang, Ying Shan, Shi-Min Hu - [arXiv]</font>
+<font color="gray">Shuangrui Ding, Xuanlang Dai, Long Xing, Shengyuan Ding, Ziyu Liu, Yang JingYi, Penghui Yang, Zhixiong Zhang, Xilin Wei, Xinyu Fang, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen,  - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-616-blue)](https://github.com/TencentARC/Pixal3D)
-
----
-
-
-[**Asymmetric Flow Models**](https://huggingface.co/papers/2605.12964) （**New**）
-
-*Published: 2026-05-13*
-
-<font color="gray">Hansheng Chen, Jan Ackermann, Minseo Kim, Gordon Wetzstein, Leonidas Guibas - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-322-blue)](https://github.com/Lakonik/LakonLab)
+[![](https://img.shields.io/badge/GitHub%20Stars-369-blue)](https://github.com/internlm/WildClawBench)
 
 ---
 
 
-[**AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation**](https://huggingface.co/papers/2605.13724) （**New**）
-
-*Published: 2026-05-13*
-
-<font color="gray">Yuchao Gu, Guian Fang, Yuxin Jiang, Weijia Mao, Song Han, Han Cai, Mike Zheng Shou - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-201-blue)](https://github.com/NVlabs/AnyFlow)
-
----
-
-
-[**Lyra 2.0: Explorable Generative 3D Worlds**](https://arxiv.org/abs/2604.13036) （**New**）
+[**AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation**](https://arxiv.org/abs/2604.08746) （**New**）
 
 *Published: 2026-04-14*
 
-<font color="gray">Tianchang Shen, Sherwin Bahmani, Kai He, Sangeetha Grama Srinivasan, Tianshi Cao, Jiawei Ren, Ruilong Li, Zian Wang, Nicholas Sharp, Zan Gojcic, Sanja Fidler, Jiahui Huang, Huan Ling, Jun Gao, Xuanchi - [arXiv]</font>
+<font color="gray">Yi-Hua Huang, Zi-Xin Zou, Yuting He, Chirui Chang, Cheng-Feng Pu, Ziyi Yang, Yuan-Chen Guo, Yan-Pei Cao, Xiaojuan Qi - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,987-blue)](https://github.com/nv-tlabs/lyra) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-374-blue)](https://github.com/VAST-AI-Research/AniGen)
 
 ---
 
 
-[**Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction**](https://arxiv.org/abs/2605.05242) （**New**）
+[**RLDX-1 Technical Report**](https://huggingface.co/papers/2605.03269) （**New**）
 
-*Published: 2026-05-03*
+*Published: 2026-05-06*
 
-<font color="gray">Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin,  - [arXiv]</font>
+<font color="gray">Dongyoung Kim, Huiwon Jang, Myungkyu Koo, Suhyeok Jang, Taeyoung Kim, Beomjun Kim, Byungjun Yoon, Changsung Jang, Daewon Choi, Dongsu Han, Donguk Lee, Heeseung Kwon, Hojin Jeon, Jaehyun Kang, Jaekyoun - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-186-blue)](https://github.com/DCI-Agent/DCI-Agent-Lite) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/RLWRLD/RLDX-1) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
