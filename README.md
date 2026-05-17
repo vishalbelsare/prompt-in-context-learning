@@ -101,59 +101,59 @@ In the future, there will likely be two types of people on Earth (perhaps even o
 
 
 
-### **[2026-05-16]**
+### **[2026-05-17]**
 
-[**SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer**](https://huggingface.co/papers/2605.15178) （**New**）
+[**World Action Models: The Next Frontier in Embodied AI**](https://huggingface.co/papers/2605.12090) （**New**）
 
-*Published: 2026-05-14*
+*Published: 2026-05-12*
 
-<font color="gray">Haoyi Zhu, Haozhe Liu, Yuyang Zhao, Tian Ye, Junsong Chen, Jincheng Yu, Tong He, Song Han, Enze Xie - [arXiv]</font>
+<font color="gray">Siyin Wang, Junhao Shi, Zhaoyang Fu, Xinzhe He, Feihong Liu, Chenchen Yang, Yikang Zhou, Zhaoye Fei, Jingjing Gong, Jinlan Fu, Mike Zheng Shou, Xuanjing Huang, Xipeng Qiu, Yu-Gang Jiang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-5,250-blue)](https://github.com/NVlabs/Sana/)
-
----
-
-
-[**Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation**](https://huggingface.co/papers/2605.15141) （**New**）
-
-*Published: 2026-05-14*
-
-<font color="gray">Min Zhao, Hongzhou Zhu, Kaiwen Zheng, Zihan Zhou, Bokai Yan, Xinyuan Li, Xiao Yang, Chongxuan Li, Jun Zhu - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-652-blue)](https://github.com/thu-ml/Causal-Forcing)
+[![](https://img.shields.io/badge/GitHub%20Stars-270-blue)](https://github.com/OpenMOSS/Awesome-WAM)
 
 ---
 
 
-[**WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation**](https://huggingface.co/papers/2605.10912) （**New**）
+[**Flow-OPD: On-Policy Distillation for Flow Matching Models**](https://huggingface.co/papers/2605.08063) （**New**）
 
-*Published: 2026-05-11*
+*Published: 2026-05-08*
 
-<font color="gray">Shuangrui Ding, Xuanlang Dai, Long Xing, Shengyuan Ding, Ziyu Liu, Yang JingYi, Penghui Yang, Zhixiong Zhang, Xilin Wei, Xinyu Fang, Yubo Ma, Haodong Duan, Jing Shao, Jiaqi Wang, Dahua Lin, Kai Chen,  - [arXiv]</font>
+<font color="gray">Zhen Fang, Wenxuan Huang, Yu Zeng, Yiming Zhao, Shuang Chen, Kaituo Feng, Yunlong Lin, Lin Chen, Zehui Chen, Shaosheng Cao, Feng Zhao - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-369-blue)](https://github.com/internlm/WildClawBench)
-
----
-
-
-[**AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation**](https://arxiv.org/abs/2604.08746) （**New**）
-
-*Published: 2026-04-14*
-
-<font color="gray">Yi-Hua Huang, Zi-Xin Zou, Yuting He, Chirui Chang, Cheng-Feng Pu, Ziyi Yang, Yuan-Chen Guo, Yan-Pei Cao, Xiaojuan Qi - [arXiv]</font>
-
-[![](https://img.shields.io/badge/GitHub%20Stars-374-blue)](https://github.com/VAST-AI-Research/AniGen)
+[![](https://img.shields.io/badge/GitHub%20Stars-135-blue)](https://github.com/CostaliyA/Flow-OPD) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
 
-[**RLDX-1 Technical Report**](https://huggingface.co/papers/2605.03269) （**New**）
+[**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**](https://huggingface.co/papers/2605.06376) （**New**）
 
-*Published: 2026-05-06*
+*Published: 2026-05-07*
 
-<font color="gray">Dongyoung Kim, Huiwon Jang, Myungkyu Koo, Suhyeok Jang, Taeyoung Kim, Beomjun Kim, Byungjun Yoon, Changsung Jang, Daewon Choi, Dongsu Han, Donguk Lee, Heeseung Kwon, Hojin Jeon, Jaehyun Kang, Jaekyoun - [arXiv]</font>
+<font color="gray">Tao Liu, Hao Yan, Mengting Chen, Taihang Hu, Zhengrong Yue, Zihao Pan, Jinsong Lan, Xiaoyong Zhu, Ming-Ming Cheng, Bo Zheng, Yaxing Wang - [arXiv]</font>
 
-[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/RLWRLD/RLDX-1) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-125-blue)](https://github.com/byliutao/cdm)
+
+---
+
+
+[**EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents**](https://huggingface.co/papers/2605.13841) （**New**）
+
+*Published: 2026-05-13*
+
+<font color="gray">Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz, Oluwanifemi Bamgbose, Fanny Riols, Hoang H. Nguyen, Raghav Mehndiratta, Lindsay Devon Brin, Joseph Marinier, Hari Subramani, Anil Mada - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-116-blue)](https://github.com/ServiceNow/eva)
+
+---
+
+
+[**UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning**](https://huggingface.co/papers/2605.11400) （**New**）
+
+*Published: 2026-05-12*
+
+<font color="gray">Hayes Bai, Yinyi Luo, Wenwen Wang, Qingsong Wen, Jindong Wang - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-114-blue)](https://github.com/AIFrontierLab/TorchUMM)
 
 ---
 
